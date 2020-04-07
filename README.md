@@ -1,5 +1,18 @@
 # vue-plotchart
 
+### placeholder for D3+Firebase & Vue+Echarts ([*v-charts*](https://github.com/ElemeFE/v-charts))
+
+## dev environment
+```
+    "d3": "^5.15.1",
+    "echarts": "^4.7.0",
+    "firebase": "^7.13.2",
+    "v-charts": "^1.19.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuetify": "^2.2.20"
+```
+
 ## Project setup
 ```
 npm install
