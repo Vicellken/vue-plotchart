@@ -1,6 +1,8 @@
 # vue-plotchart
 
 ### placeholder for D3+Firebase & Vue+Echarts ([*v-charts*](https://github.com/ElemeFE/v-charts))
+1. clone to local directory then config firebase settings
+2. update firebase/firestore data collections & data identities info in d3-vue files
 
 ## dev environment
 ```
